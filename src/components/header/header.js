@@ -1,4 +1,4 @@
-import logopsicologia from "../../img/logo-psicologia.jpg";
+// import logopsicologia from "../../img/logo-psicologia.jpg";
 
 import consultorio5 from "../../img/consultorio5.png";
 import "../header/style.css";

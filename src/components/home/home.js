@@ -1,9 +1,9 @@
 import "../home/style.css";
 
-import consultorio1 from "../../img/consultorio1.jpg";
-import consultorio2 from "../../img/consultorio2.jpg";
-import consultorio3 from "../../img/consultorio3.jpg";
-import consultorio4 from "../../img/consultorio4.jpg";
+// import consultorio1 from "../../img/consultorio1.jpg";
+// import consultorio2 from "../../img/consultorio2.jpg";
+// import consultorio3 from "../../img/consultorio3.jpg";
+// import consultorio4 from "../../img/consultorio4.jpg";
 import consultorio5 from "../../img/consultorio5.png";
 
 function Home() {
