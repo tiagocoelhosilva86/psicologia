@@ -2,8 +2,8 @@
 import './App.css';
 import Header from './components/header/header';
 import Footer from './components/footer/footer';
-import Home from './components/home/home';
-import Maps from './components/maps/maps';
+// import Home from './components/home/home';
+// import Maps from './components/maps/maps';
 
 
 
